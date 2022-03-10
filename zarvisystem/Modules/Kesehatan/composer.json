@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/kesehatan",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Kesehatan\\Providers\\KesehatanServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Kesehatan\\": ""
+        }
+    }
+}

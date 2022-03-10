@@ -1,0 +1,14 @@
+{
+    "name": "Kesehatan",
+    "alias": "kesehatan",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Kesehatan\\Providers\\KesehatanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
